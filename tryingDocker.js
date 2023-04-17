@@ -21,12 +21,4 @@ print(" hello world")
 print(average(45, 50))
 print(add(45, 50))
 
-switch (key) {
-case value:
-    
-    break;
-
-  default:
-    break;
-}
 
